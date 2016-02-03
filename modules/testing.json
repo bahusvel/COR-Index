@@ -1,1 +1,1 @@
-{"name": "TestingPublish", "language": "https://github.com/bahusvel/COR-Framework-Python.git", "repo": "(fetch)\norigin\thttps://github.com/bahusvel/Testing.git", "type": "MODULE"}
+{"name": "TestingPublish", "type": "MODULE", "repo": "(fetch)\norigin\thttps://github.com/bahusvel/Testing.git", "language": "https://github.com/bahusvel/COR-Framework-Python.git"}
