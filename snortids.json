@@ -1,0 +1,8 @@
+{
+	"name":"COR-SnortIDS",
+	"repo":"https://github.com/bahusvel/COR-SnortIDS.git",
+	"description":"Snort Intrusion Detection System Integration for COR",
+	"infostring":"",
+	"version":"0.1",
+	"language": "Python3"
+}
